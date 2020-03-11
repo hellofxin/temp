@@ -23,5 +23,9 @@ master modify to rebase 2
 branchRebase modify 1
 branchRebase modify 1
 branchRebase modify 2
+
 bPush
 bPush2
+master different from bPus
+resolve conflict and commit
+
